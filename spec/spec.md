@@ -14,13 +14,15 @@ Wenn man mit den Token in der Nähe ist, kann man per Knopf die Tür aufmachen.
 
 ### Pin-Pad
 
+Evt mit [RFC 6238](https://tools.ietf.org/html/rfc6238)? (Das ist im Prinzip der [Google Authenticator](http://de.wikipedia.org/wiki/Google_Authenticator))
+
 ### Karte mit Magnetstreifen zum durchziehen
 
 ### WLAN-Interface
 
 Das WLAN-Interface sollte über Freifunk erreichbar sein. 
 
-Evt mit [RFC 6238](https://tools.ietf.org/html/rfc6238)?
+Evt mit [RFC 6238](https://tools.ietf.org/html/rfc6238)? (Das ist im Prinzip der [Google Authenticator](http://de.wikipedia.org/wiki/Google_Authenticator))
 
 ### Richtiger Schlüssel 
 
