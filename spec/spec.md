@@ -20,7 +20,7 @@ Wenn man mit den Token in der Nähe ist, kann man per Knopf die Tür aufmachen.
 
 Das WLAN-Interface sollte über Freifunk erreichbar sein. 
 
-### WLAN-Interface irgendwas mit [RFC 6238](https://tools.ietf.org/html/rfc6238)
+Evt mit [RFC 6238](https://tools.ietf.org/html/rfc6238)?
 
 ### Richtiger Schlüssel 
 
