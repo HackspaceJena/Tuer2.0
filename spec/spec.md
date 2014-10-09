@@ -46,17 +46,17 @@ Nachbau eines Rotary combination locks wie an Tresoren, beispielsweise mit einem
 
 Der Schlüssel aus Metall soll zumindest für die Wohnungstür nur noch als Rückfalllösung benutzt werden. 
 
-# Benutzermanagement
+## Benutzermanagement
 
 Für die Zugangsdaten muss es eine Verwaltungsmöglichkeit geben auf die mehrere Vereinsmitglieder Zugang haben können. 
 
-# Sonstige Anforderungen
+## Sonstige Anforderungen
 
-## Stromverbrauch
+### Stromverbrauch
 
 Die Anlage sollte im Leerlauf möglichst wenig Strom (zusätzlich zu bereits vorhandener Hardware wie den Freifunkroutern) verbrauchen.
 
-## Akkubetrieb
+### Akkubetrieb
 
 Es sollten Akkus verbaut werden, so dass die Anlage auch bis zu 24 Stunden ohne feste Stromversorgung funktioniert.
 
