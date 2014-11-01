@@ -46,6 +46,10 @@ Eventuell mit [RFC 6238](https://tools.ietf.org/html/rfc6238)? (Das ist im Prinz
 
 Nachbau eines Rotary combination locks wie an Tresoren, beispielsweise mit einem Potentiometer dessen Widerstand mehrfach nacheinander ausgelesen wird.
 
+### Selbstgelötets Widerstandsdevice
+
+Es werden n (ca. 4) Widerstände auf eine kleine Platine mit Stecker gelötet. Der Stecker wird in eine Buchse an der Tür gesteckt, ein kleiner Computer misst die Widerstände, wenn diese einem hinterlegen Profil entsprechen wird geöffnet. Dies sollte eine sehr kostengünstige und einfache Variante sein. Man muss aber die Buchse an der Tür vandalitätssicher machen. Probleme können auftreten wenn dort eine Spannungsquelle angeschlossen wird.
+
 ### Schlüsselschalter
 
 Ein Schalter, welcher mit einem Schließzylinder und Schlüssel geschaltet wird. Das ist eine sehr einfache Möglichkeit, muss aber physisch gut abgesichert werden. 
