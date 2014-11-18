@@ -1,6 +1,8 @@
 # Tür 2.0
 
-Die bestehende elektronische Türschließanalge für den Krautspace soll überarbeitet werden da das momentane Setup an einigen Stellen nicht zufriedenstellend ist. Dies hier ist die Spec dazu. 
+Die bestehende elektronische Türschließanalge für den Krautspace soll überarbeitet werden da das momentane Setup an einigen Stellen nicht zufriedenstellend ist. Dies hier ist die Spec dazu.
+
+Auf http://schuylertowne.com/blog/smart-locks gibt es eine Übersicht an kommerziellen Schliessystemen und deren Zustand.
 
 ## Allgemeines
 
